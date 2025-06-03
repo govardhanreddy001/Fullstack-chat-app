@@ -29,7 +29,9 @@ Features include authentication, real-time messaging, and user presence tracking
 
 | Login Page | Chat Interface |
 |------------|----------------|
-| ![Login](./frontend/public/login.png) | ![Realtimechat](./frontend/public/REALTIMECHAT) |
+| ![loginpage](https://github.com/user-attachments/assets/86755914-1b8c-4836-8284-15d26728c369)
+| ![REALTIMECHAT](https://github.com/user-attachments/assets/2ae27b83-517a-4cd6-95af-b319e8f90b0c)
+ |
 
 ---
 
