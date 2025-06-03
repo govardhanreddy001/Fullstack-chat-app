@@ -27,11 +27,16 @@ Features include authentication, real-time messaging, and user presence tracking
 
 ## 🖼️ Screenshots
 
-| Login Page | Chat Interface |
-|------------|----------------|
-| ![loginpage](https://github.com/user-attachments/assets/86755914-1b8c-4836-8284-15d26728c369)
-| ![REALTIMECHAT](https://github.com/user-attachments/assets/2ae27b83-517a-4cd6-95af-b319e8f90b0c)
- |
+### 🔐 Login Page
+
+![Login Page](https://github.com/user-attachments/assets/86755914-1b8c-4836-8284-15d26728c369)
+
+---
+
+### 💬 Chat Interface
+
+![Chat Interface](https://github.com/user-attachments/assets/2ae27b83-517a-4cd6-95af-b319e8f90b0c)
+
 
 ---
 
