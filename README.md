@@ -1,11 +1,11 @@
-# 💬 Real-Time Chat App
+# Real-Time Chat App
 
 A real-time chat application built using the **MERN** stack, **Socket.io**, **TailwindCSS**, and **DaisyUI**. 
 Features include authentication, real-time messaging, and user presence tracking.
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 - **Frontend**: React, TailwindCSS, DaisyUI  
 - **Backend**: Node.js, Express.js, MongoDB  
@@ -15,7 +15,7 @@ Features include authentication, real-time messaging, and user presence tracking
 
 ---
 
-## 🚀 Features
+## Features
 
 - 🌟 MERN stack architecture
 - 🎃 Authentication & Authorization with JWT
@@ -25,7 +25,7 @@ Features include authentication, real-time messaging, and user presence tracking
 
 ---
 
-## 📁 Environment Variables
+## Environment Variables
 
 Create a `.env` file inside the backend root and add:
 
